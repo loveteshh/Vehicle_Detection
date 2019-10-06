@@ -11,7 +11,7 @@ The Vehicles_detection.py is an organisation script and is supposed to be execut
 ### Prerequisites
 
 The mobile application is a stand-alone apk file. No external dependencies required.
-Any required dependencies for the algorithm can be installed using.
+Any required dependencies for the algorithm can be installed using-
 
 ```
 python install.py
