@@ -1,6 +1,6 @@
 # Automated Parking Counter
 
-An automated parking counter based on Cctv footages for parking spots near you.
+An automated parking counter based on CCtv footages for parking spots near you.
 
 ![image](/outputs/1.jpeg)
 
