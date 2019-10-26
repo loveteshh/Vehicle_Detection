@@ -18,7 +18,9 @@ python install.py
 ```
 
 ## Running the tests
-Clone the repository. Add CCtv footages to be analysed into the parent directory where vehicle_detection.py exist ([some_examples](https://drive.google.com/open?id=1kayO8KoOVQkK1mucxAItKCpUVrvCgWmw)), open a terminal and execute command:
+
+Clone the repository. Add CCTv footages to be analysed into the parent directory where vehicle_detection.py exist ([some_examples](https://drive.google.com/open?id=1kayO8KoOVQkK1mucxAItKCpUVrvCgWmw)), open a terminal and execute command:
+
 
 
 ```
