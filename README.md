@@ -26,7 +26,7 @@ python Vehicles_detection.py
 
 ## Deployment
 
-The end to end stack of the software is deployed in heroku. (only the application has access to the url)
+The end to end stack of the software is deployed in Heroku. (only the application has access to the url)
 
 ## Built With
 
